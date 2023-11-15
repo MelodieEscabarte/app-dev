@@ -6,10 +6,10 @@ My first repository
 ### Movies
 
 1. **Titanic**
-Titanic is a 1997 American epic romantic disaster film directed, written, produced, and co-edited by James Cameron. Incorporating both historical and fictionalized aspects, it is based on accounts of the sinking of the RMS Titanic in 1912.
+- Titanic is a 1997 American epic romantic disaster film directed, written, produced, and co-edited by James Cameron. Incorporating both historical and fictionalized aspects, it is based on accounts of the sinking of the RMS Titanic in 1912.
 
-2. **Five Feet Apart**
-The film was inspired by Claire Wineland, who suffered from cystic fibrosis. Haley Lu Richardson and Cole Sprouse play two young patients with cystic fibrosis who try to have a relationship despite being forced to stay six feet apart from each other.
+2. **Five Feet Apart.**
+- The film was inspired by Claire Wineland, who suffered from cystic fibrosis. Haley Lu Richardson and Cole Sprouse play two young patients with cystic fibrosis who try to have a relationship despite being forced to stay six feet apart from each other.
 
 3. **A Walk To Remember**
 Two North Carolina teens, Landon Carter and Jamie Sullivan, are thrown together after Landon gets into trouble and is sentenced to perform community service.
